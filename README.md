@@ -1,6 +1,12 @@
 # recommendation_system
 Recommendation system building with online article data(Chinese) and tutorial
 
+I only upload how I implement recommendation building under Keras framework.
+
+The main purpose here is to convey the concept and tutorial.
+
+If one wants to access my web-log, online article content data, please contact me :). (a26006587@gmail.com)
+
 This project includes several factorization models in recommendation system and natural language processing.
 
 For further information, I'd maintained my medium and recorded detailedly about this project. 
