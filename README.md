@@ -5,7 +5,7 @@ I only upload how I implement recommendation building under Keras framework.
 
 The main purpose here is to convey the concept and tutorial.
 
-If one wants to access my web-log, online article content data, please contact me :). (a26006587@gmail.com)
+If one wants to access web-log, online article content data, please contact me :). (a26006587@gmail.com)
 
 This project includes several factorization models in recommendation system and natural language processing.
 
