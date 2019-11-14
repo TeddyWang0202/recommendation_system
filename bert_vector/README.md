@@ -1,3 +1,5 @@
+## Codes, concepts are all cited from [the Arxiv paper](https://arxiv.org/abs/1810.04805)
+
 # BERT
 
 **\*\*\*\*\* New February 7th, 2019: TfHub Module \*\*\*\*\***
